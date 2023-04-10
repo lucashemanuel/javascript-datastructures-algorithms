@@ -16,4 +16,4 @@ import * as area from "./17-CalcArea";
 console.log(area.circleArea(2));
 console.log(area.squareArea(2));
 
-// ({}) is used when the module has 2 or more exports
+//({}) must be used by a module who has 2 or more exports
